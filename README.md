@@ -1,2 +1,2 @@
-# Bank-Database
-This is a forked repo for a Bank Repo that I am learnign from for another database project idea
+# General-Inventory-Database
+This is my attempt at building a database for managing general inventory of supplies in C/C++. 
